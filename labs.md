@@ -12,7 +12,7 @@ has_toc: false
 | Lab | Name | Due Date     |
 |-----|------|--------------|
 | 1   | Designing a Map Through History     | TBD |
-| 2   |     | TBD |
+| 2   | Cartographic Moment in History   | TBD |
 | 3   |     | TBD  |
 | 4   |     | TBD |
 

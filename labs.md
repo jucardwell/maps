@@ -11,8 +11,14 @@ has_toc: false
 
 | Lab | Name | Due Date     |
 |-----|------|--------------|
-| 1   | Designing a Map Through History     | TBD |
-| 2   | Cartographic Moment in History   | TBD |
-| 3   |     | TBD  |
-| 4   |     | TBD |
+| 1   | Designing a Map Through History     | 2025-01-24 |
+| 2   | Cartographic Moment in History   | 2025-01-31 |
+| 3   | Earth From Above   | 2025-02-07  |
+| 4   | Cartographic Controversies   | 2025-02-14 |
+| 5   |      | 2025-02-21 |
+| 6   |      | 2025-02-28 |
+| 7   | Redesign a Propoganda Map    | 2025-03-07|
+| 8   |     | 2025-03-21 |
+| 9   | Map 1    | 2025-04-07 |
+| 10   | Map2     | 2025-04-16 |
 

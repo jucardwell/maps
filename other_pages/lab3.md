@@ -1,12 +1,12 @@
 ---
-title: Lab 3
+title: Assignment 3
 layout: default
-parent: Labs
+parent: Assignments
 nav_order: 3
 ---
 
 <iframe 
-    src="https://docs.google.com/document/d/e/2PACX-1vSCqy7VG2VgCvLXi6gltyGtGz1qvEmt3SRanl8iEpo5WbpjvGkGMCQbVLr6PepVXvyMZeHI1SDjRaQz/pub?embedded=true" 
+    src="https://docs.google.com/document/d/e/2PACX-1vT7ZV8dvJjiGtiAhvRJqupnlu7hWLW_7HrcR7rsPc3FZYUXYaRURT0O-5uRC5gJkBknAQCSeiHb8FLe/pub?embedded=true" 
     width="100%" 
     height="800px" 
     frameborder="0" 

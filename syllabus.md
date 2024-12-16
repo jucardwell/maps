@@ -3,7 +3,7 @@ title: Syllabus
 layout: default
 nav_order: 2
 ---
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQAt04PVs7IUzMkLGQjCbnCZM4HBlsxyA2SCi5Z9GLpguXP_-UFKcHzOr_cag0-xBNrR-M3Rx7fnJHY/pub?embedded=true"
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSsYWPJgDB_RLPpXWRaQ2wth4gW01EDWfUAg_XMiLGnSedZQYJMGqE5YgEmwRS1e7YGEg9pVTdQaD1J/pub?embedded=true"
   width="100%" 
     height="800px" 
     frameborder="0" 

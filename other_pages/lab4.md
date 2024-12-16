@@ -1,7 +1,7 @@
 ---
 title: Assignment 4
 layout: default
-parent: Labs
+parent: Assigments
 nav_order: 4
 ---
 <iframe 

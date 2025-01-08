@@ -11,6 +11,6 @@ has_toc: false
 
 | Assignment | Name | Due Date     |
 |-----|------|--------------|
-| 1   | Paper Draft   | 2025-03-27 |
-| 2   | Peer Review   | 2025-01-31 |
-| 3   | Final Paper   | 2025-04-29 |
+| 1   | Paper Draft   | 2025-03-28 |
+| 2   | Peer Review   | 2025-04-04 |
+| 3   | Final Paper   | 2025-04-28 |

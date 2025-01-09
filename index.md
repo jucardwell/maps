@@ -17,7 +17,7 @@ nav_order: 1
 - **Office Hours**:Tuesdays (1-3pm), Wednesdays (11:15am-1pm)
 - **Email**: jmcard@email.unc.edu
 
-### Teaching Assistant Information :
+### Teaching Assistant Information
 - **Name**: Sophia Graybill
 - **Office Hours**: Rather than having set office hours, please email me to set up an appointment. We can meet in-person or via Zoom.
 - **Email**: sophia.graybill@unc.edu

@@ -14,3 +14,6 @@ All my course material is freely available for use, adaptation, and distribution
 [Concept Maps](https://docs.google.com/presentation/d/1fbrSZNw82G6jEa1YRUyNGX4odW-pptDxlTJ0ms_TrTA/edit#slide=id.g2af7c586847_8_0)
 
 [Worldview Assignment](https://docs.google.com/document/d/1JZcz7CoxBUuaaDSonkbfdgntJ2kYMSXLNWK229W46Bw/edit?usp=sharing)
+
+[Spatial Data Exercise](https://docs.google.com/document/d/1FSQ_qW2N-UZt_c720G80TZH0uXBg0U63/edit?usp=sharing&ouid=101338019870957132383&rtpof=true&sd=true)
+

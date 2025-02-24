@@ -17,3 +17,5 @@ All my course material is freely available for use, adaptation, and distribution
 
 [Spatial Data Exercise](https://docs.google.com/document/d/1FSQ_qW2N-UZt_c720G80TZH0uXBg0U63/edit?usp=sharing&ouid=101338019870957132383&rtpof=true&sd=true)
 
+[Social Data Aggregation](https://docs.google.com/document/d/1tEt7_02kHnzyWmqg0hN-ZlnpIXUjzw_Zu5DLkr40LKQ/edit?usp=sharing)
+

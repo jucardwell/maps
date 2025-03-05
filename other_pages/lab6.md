@@ -5,8 +5,7 @@ parent: Assignments
 nav_order: 6
 ---
 <iframe 
-    src="https://docs.google.com/document/d/1DGpQkjASmwh-hfaAVhdwjJv6K0j1-yt_MW9O2A08UQM/edit?usp=sharing" 
-    width="100%" 
+    src="<iframe src="https://docs.google.com/document/d/e/2PACX-1vQeiqPikKWjlmxGAFG8KiGVdzjAh9zmtb6KexlhPpiYL4xAJX5wVOjmX86eSFCeEAvvW5jk44mhCUBp/pub?embedded=true"    width="100%" 
     height="800px" 
     frameborder="0" 
     allowfullscreen>

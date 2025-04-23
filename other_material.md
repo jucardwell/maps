@@ -19,3 +19,5 @@ All my course material is freely available for use, adaptation, and distribution
 
 [Social Data Aggregation](https://docs.google.com/document/d/1tEt7_02kHnzyWmqg0hN-ZlnpIXUjzw_Zu5DLkr40LKQ/edit?usp=sharing)
 
+[Course Evaluation](https://docs.google.com/document/d/1AiPV-Ixny86uToHFZhzCudXtbn4Wqc022K552XcJpR8/edit?usp=sharing)
+

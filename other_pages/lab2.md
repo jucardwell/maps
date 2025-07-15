@@ -1,5 +1,5 @@
 ---
-title: Assignment 2
+title: Reading Maps
 layout: default
 parent: Assignments
 nav_order: 2

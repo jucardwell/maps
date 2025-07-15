@@ -1,5 +1,5 @@
 ---
-title: Assignment 3
+title: Designing a Map Through History
 layout: default
 parent: Assignments
 nav_order: 3

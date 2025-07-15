@@ -6,7 +6,7 @@ nav_order: 6
 has_children: true
 has_toc: false
 ---
-[**See Assignment Rubrics Here**]([https://docs.google.com/spreadsheets/d/1bbGnTvR22vH7bC-Cv0k7Sr_SUvO-2iS7LupstgTcXlY/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1Xz9p1d8eUaYFpXk56U3pnC-jCE9EqQ_VaDry1_Xz92w/edit?usp=sharing))
+[**See Assignment Rubrics Here**](https://docs.google.com/spreadsheets/d/1bbGnTvR22vH7bC-Cv0k7Sr_SUvO-2iS7LupstgTcXlY/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1Xz9p1d8eUaYFpXk56U3pnC-jCE9EqQ_VaDry1_Xz92w/edit?usp=sharing)
 ------------------------------------------------------------------------
 
 <img src="images/Cc_by-nc_icon.svg.png" alt="CC BY-NC License" width="100" height="50">

@@ -9,15 +9,4 @@ All my course material is freely available for use, adaptation, and distribution
 
 [A brief (and non-comprehensive) history of cartography](https://docs.google.com/document/d/1Suh4PqcPX_3ij_yP13kXry2j6AaEdT8dcWaCF_AyJhc/edit?tab=t.0)
 
-[Study Guide Outline](https://docs.google.com/document/d/1z2rEYGEKkpoGUsvWRtAR-9ytcfM3gSKoQcCVjahPqcY/edit?usp=sharing)
-
-[Concept Maps](https://docs.google.com/presentation/d/1fbrSZNw82G6jEa1YRUyNGX4odW-pptDxlTJ0ms_TrTA/edit#slide=id.g2af7c586847_8_0)
-
-[Worldview Assignment](https://docs.google.com/document/d/1JZcz7CoxBUuaaDSonkbfdgntJ2kYMSXLNWK229W46Bw/edit?usp=sharing)
-
-[Spatial Data Exercise](https://docs.google.com/document/d/1FSQ_qW2N-UZt_c720G80TZH0uXBg0U63/edit?usp=sharing&ouid=101338019870957132383&rtpof=true&sd=true)
-
-[Social Data Aggregation](https://docs.google.com/document/d/1tEt7_02kHnzyWmqg0hN-ZlnpIXUjzw_Zu5DLkr40LKQ/edit?usp=sharing)
-
-[Course Evaluation](https://docs.google.com/document/d/1AiPV-Ixny86uToHFZhzCudXtbn4Wqc022K552XcJpR8/edit?usp=sharing)
 

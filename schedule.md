@@ -3,8 +3,8 @@ title: Schedule and Readings
 layout: default
 nav_order: 3
 ---
-[Link to schedule](https://docs.google.com/spreadsheets/d/1MTcy_5I3Xf7vDEDuddyTppfPh0zgqs-4zF3ekpc1pC0/edit?usp=sharing)
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf9bjtFzNuxjD5xtb0V4QSjm_l-BG3ztb2SNfuvnhuU2QFn7cxLzpFV4hkTnFg7Jf-HM78TjFv3fn1/pubhtml?widget=true&amp;headers=false"
+[Link to schedule](https://docs.google.com/spreadsheets/d/1qgMQ6XklXYXzNtahw__71zxPNyxPessXIcyR1IFKbFg/edit?usp=sharing)
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRY1PTIjVGMcQMwh27hv0h75HrbRTcM-a1wSrnF8SqB8vwx_QEZZh5I87cYCgQ56tpt0LLjhOBvCeex/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
   width="100%" 
     height="800px" 
     frameborder="0" 

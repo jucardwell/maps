@@ -1,5 +1,5 @@
 ---
-title: Paper Draft
+title: Paper
 layout: default
 parent: Assignments
 nav_order: 4

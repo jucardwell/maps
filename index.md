@@ -19,8 +19,9 @@ nav_order: 1
 - **Zoom Room**: https://unc.zoom.us/j/2724389665
 
 ### Teaching Assistant Information 
-- **Name**: XXXX
-- **Office Hours**: XXXX
-- **Email**: XXXX
+- **Name**: Ina Shkurti
+- **Office Hours**: By appointment
+- **Email**: ishkurti@unc.edu
+  
 
 

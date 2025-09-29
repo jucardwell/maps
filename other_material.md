@@ -11,4 +11,4 @@ All my course material is freely available for use, adaptation, and distribution
 
 [Grading Guidelines](https://docs.google.com/document/d/1VRxDcmycIyxXXod2NwBBLj86_DBXjEGt_Sb04ODhWtw/edit?usp=sharing)
 
-
+[Spatial Data Exercise](https://docs.google.com/document/d/1XYfdmrP4bvhCKYNGnt0QmjKJYbLMSTGL1HXbhUt43t0/edit?usp=sharing)
